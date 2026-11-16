@@ -1,6 +1,7 @@
 # Hi, I'm Rhythm Garg 👋
 
 **B.Tech (IT) graduate | MERN Stack Developer | Problem Solver**
+
 📍 Muzaffarnagar, Uttar Pradesh, India
 
 I build full-stack web applications and love turning ideas into working products. Currently looking for software developer / full stack roles where I can learn fast and contribute to real-world projects.
